@@ -16,7 +16,7 @@
 </span>
 
 ## How website looks like
-<img src ="https://github.com/Swadhindhara/digital_marketing_landing_page-project-3/blob/main/Final%20Output.png"/>
+<img src ="https://github.com/Swadhindhara/digital_marketing_landing_page-project-4/blob/main/Final%20Output.png"/>
 
 ## What I have learned in this project?
 - In this project I have designed a cool landing page of SEO service providing company
